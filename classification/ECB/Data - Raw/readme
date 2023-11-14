@@ -1,0 +1,8 @@
+In this folder, we have the raw data files.
+
+1) To run the notebooks, you'll first need the ECB speeches file. Unfortunately, due to its size, it's too big to share here on GitHub.
+You can find it here: https://www.ecb.europa.eu/press/key/html/downloads.en.html.
+
+2) The Datamart file has extra information, which is not present in the official ECB file, such as the language of the speeches, 
+what type of intervention (speech, press conference, etc.). 
+It was taken from https://www.kaggle.com/robertolofaro/ecb-speeches-1997-to-20191122-frequencies-dm
